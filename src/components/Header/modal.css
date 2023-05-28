@@ -1,0 +1,17 @@
+
+
+
+.ReactModal__Content div div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+
+    
+}
+
+
+.ReactModal__Overlay ul {
+    flex-direction: column;
+    margin-top: 5rem;
+}
